@@ -1,0 +1,9 @@
+Sebelum anda menjalankan program , pastikan bahwa Anda telah menginstal Python dan pip (package manager Python) di komputer
+Lalu anda perlu menginstal beberapa library yaitu :
+pip install opencv-python
+
+pip install ultralytics
+
+pip install torch torchvision torchaudio
+
+apabila error saat menginstal library di atas , silakan cek di google untuk solusi errornya
